@@ -1,6 +1,6 @@
 # Projects
 
-## 📈  [Previsão de Vendas usando Regressão](https://github.com/natan-matos/sales-prediction)
+## 📈  [Previsão de Vendas usando Regressão para Time Series](https://github.com/natan-matos/sales-prediction)
 
 Neste projeto realizei a predição de vendas de mais de 1000 lojas de uma rede de farmácias europeia. Com foco em um tempo específico, as previsões foram feitas para 6 semanas no futuro. O objetivo é dar ao CFO uma visão das vendas de todas as lojas, para assim tomar melhores decisões de negócio.
 

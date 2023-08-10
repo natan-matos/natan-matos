@@ -22,9 +22,9 @@ Natan Matos - Data Scientist
 Como Cientista de Dados meu último trabalho foi o desenvolvimento de uma pontuação de propensão de compra para ordenar uma lista de clientes e priorizar as ligações do time comercial, usando algoritmos de Learning to Rank e linguagem de programação Python. Segundo estimativas, essa solução traria um aumento mensal de 15% no faturamento da empresa. A solução foi desenvolvida com dados públicos e demonstrada em um portfólio de projetos pessoais que você pode conferir na seção de projetos mais abaixo neste perfil.
 
 ## Ferramentas
-**Coleta e armazenamento de Dados**: SQL, MySQL, Postgres
-**Análise e processamento de Dados**: Python, Jupyter Notebook, ETL
-**Eng. Software**: Git, Github, Linux, Virtual Evn., Flask, API com Python
-**Visualização de Dados**: Matplotlib, Seaborn, Plotly, Streamlit
-**Machine Learning**: Regressão, Classificação, Clusterização, Lear to Rank com Sklear e Scipy
-**EStatística**: Estatística descritiva, balanceamento de dados, redução de dimensionalidade.
+-**Coleta e armazenamento de Dados**: SQL, MySQL, Postgres
+-**Análise e processamento de Dados**: Python, Jupyter Notebook, ETL
+-**Eng. Software**: Git, Github, Linux, Virtual Evn., Flask, API com Python
+-**Visualização de Dados**: Matplotlib, Seaborn, Plotly, Streamlit
+-**Machine Learning**: Regressão, Classificação, Clusterização, Lear to Rank com Sklear e Scipy
+-**EStatística**: Estatística descritiva, balanceamento de dados, redução de dimensionalidade.

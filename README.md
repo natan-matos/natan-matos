@@ -13,5 +13,3 @@ Nesse projeto, os conceitos de Programação em Python, manipulação de dados, 
 O resultado final do projeto foi um painel hospedado em um ambiente Cloud e disponibilizado através de um link web. O painel pode ser acessado por qualquer dispositivo conectado na internet.
 
 ## 📒 [Ranking clients in a health insurance company | Projeto em progresso ](https://github.com/natan-matos/health-insurance)
-
-

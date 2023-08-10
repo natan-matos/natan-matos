@@ -6,10 +6,12 @@ Neste projeto realizei a predição de vendas de mais de 1000 lojas de uma rede 
 
 O resultado final foi um bot no Telegram, alimentado por uma API, onde é possível ter acesso as previsões de vendas para todas as lojas usando apenas o código de loja.
 
-## 🏘 [Insights para venda de Imóveis com EDA]()
+## 🏘 [Desenvolvimento Painel Gerencial | Streamlit](https://github.com/natan-matos/foodzone)
 
-Recommendation of best properties to buy in Seattle region. Through a Exploratory Data Analysis using maps created in Streamlit and descriptive statistics it was possible to extract valuabled insights for a company that buy and sell houses in a short period of time.
+Nesse projeto, os conceitos de Programação em Python, manipulação de dados, pensamento estratégico e lógica de negócio, junto com ferramentas de desenvolvimetno web como o Streamlit e Github, foram usados para desenvolver um painel gerencial com as principais métricas de uma empresa marketplace recomendação de restaurantes.
+
+O resultado final do projeto foi um painel hospedado em um ambiente Cloud e disponibilizado através de um link web. O painel pode ser acessado por qualquer dispositivo conectado na internet.
 
 ## 📒 [Ranking clients in a health insurance company | Projeto em progresso ](https://github.com/natan-matos/health-insurance)
 
-A classification model was used to create a list of clients more likely to buy a second insurance. The best k number of clients was calculated to reach maximum profit. The final model presented 91.62% recall at k equal to 40,254 bringing a total profit of U$ 4.24 million.
+

@@ -17,7 +17,7 @@ O resultado final do projeto foi um painel hospedado em um ambiente Cloud e disp
 # Sobre Mim
 Natan Matos - Data Scientist
 
-### Meu principal objetivo é trabalhar como Cientista de Dados, desenvolvendo produtos de dados, seja através de Análise e técnicas de Machine Learning ou Estatística para solucionar problemas de negócio para as empresas.
+Meu principal objetivo é trabalhar como Cientista de Dados, desenvolvendo produtos de dados, seja através de Análise e técnicas de Machine Learning ou Estatística para solucionar problemas de negócio para as empresas.
 
 Como Cientista de Dados meu último trabalho foi o desenvolvimento de uma pontuação de propensão de compra para ordenar uma lista de clientes e priorizar as ligações do time comercial, usando algoritmos de Learning to Rank e linguagem de programação Python. Segundo estimativas, essa solução traria um aumento mensal de 15% no faturamento da empresa. A solução foi desenvolvida com dados públicos e demonstrada em um portfólio de projetos pessoais que você pode conferir na seção de projetos mais abaixo neste perfil.
 

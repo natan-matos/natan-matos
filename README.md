@@ -1,30 +1,30 @@
 # Projects
 
-## 📈  [Previsão de Vendas usando Regressão para Time Series](https://github.com/natan-matos/sales-prediction)
+## 📈  [Sales forecast with Time Series](https://github.com/natan-matos/sales-prediction)
 
-Neste projeto realizei a predição de vendas de mais de 1000 lojas de uma rede de farmácias europeia. Com foco em um tempo específico, as previsões foram feitas para 6 semanas no futuro. O objetivo é dar ao CFO uma visão das vendas de todas as lojas, para assim tomar melhores decisões de negócio.
+In this project I made the sales forecast for 1115 pharmacys stores in europe. With the focus in a specific time, the predictions are made for 6 weeks in the future. The aim is to give to the CEO a complete view of the stores, to make the best decisions.
 
-O resultado final foi um bot no Telegram, alimentado por uma API, onde é possível ter acesso as previsões de vendas para todas as lojas usando apenas o código de loja.
+The final result was a Telegram bot, feed by an API, where you can access sales forecast for all stores using only the store code.
 
-## 🏘 [Desenvolvimento Painel Gerencial | Streamlit](https://github.com/natan-matos/foodzone)
+## 🏘 [Development of a Management Panel| Streamlit](https://github.com/natan-matos/foodzone)
 
-Nesse projeto, os conceitos de Programação em Python, manipulação de dados, pensamento estratégico e lógica de negócio, junto com ferramentas de desenvolvimetno web como o Streamlit e Github, foram usados para desenvolver um painel gerencial com as principais métricas de uma empresa marketplace recomendação de restaurantes.
+In this project, the concepts of Pyhton programming, data manipulation, strategic thinking and business logic, along with web development tools, like Streamlit and Github, where used to build a management panel with the most important business metrics of a restaurant marketplace.
 
-O resultado final do projeto foi um painel hospedado em um ambiente Cloud e disponibilizado através de um link web. O painel pode ser acessado por qualquer dispositivo conectado na internet.
+The final product was a panel hosted in a cloud environmennt and made available via a link. The panel can be accessed by any device connected to the internet.
 
 ## 📒 [Ranking clients in a health insurance company | Projeto em progresso ](https://github.com/natan-matos/health-insurance)
 
-# Sobre Mim
+# About Me
 Natan Matos - Data Scientist
 
-Meu principal objetivo é trabalhar como Cientista de Dados, desenvolvendo produtos de dados, seja através de Análise e técnicas de Machine Learning ou Estatística para solucionar problemas de negócio para as empresas.
+My main goal is to work as a Data Scientist, developing data products, either through Analysis and Machine Learning or Statistics techniques to solve business problems for companies.
 
-Como Cientista de Dados meu último trabalho foi o desenvolvimento de uma pontuação de propensão de compra para ordenar uma lista de clientes e priorizar as ligações do time comercial, usando algoritmos de Learning to Rank e linguagem de programação Python. Segundo estimativas, essa solução traria um aumento mensal de 15% no faturamento da empresa. A solução foi desenvolvida com dados públicos e demonstrada em um portfólio de projetos pessoais que você pode conferir na seção de projetos mais abaixo neste perfil.
+As a Data Scientist my last job was to develop a buy propensity score to sort a list of customers and prioritize business team calls, using Learning to Rank algorithms and Python programming language. According to estimates, this solution would bring a monthly increase of 15% in the company’s revenues. The solution was developed with public data and demonstrated in a portfolio of personal projects that you can check out in the projects section below in this profile.
 
-## Ferramentas
-- **Coleta e armazenamento de Dados**: SQL, MySQL, Postgres
-- **Análise e processamento de Dados**: Python, Jupyter Notebook, ETL
-- **Eng. Software**: Git, Github, Linux, Virtual Evn., Flask, API com Python
-- **Visualização de Dados**: Matplotlib, Seaborn, Plotly, Streamlit
-- **Machine Learning**: Regressão, Classificação, Clusterização, Lear to Rank com Sklear e Scipy
-- **EStatística**: Estatística descritiva, balanceamento de dados, redução de dimensionalidade.
+## Tools
+- **Data Collection and Storage**: SQL, MySQL, Postgres
+- **Data Analysis and Processing**: Python, Jupyter Notebook, ETL
+- ***Eng. Software**: Git, Github, Linux, Virtual Evn., Flask, Python API
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Streamlit
+- **Machine Learning**: Regression, Classification, Clustering, Lear to Rank with Sklear and Scipy
+- **statistics**: Descriptive statistics, data balancing, dimensionality reduction.

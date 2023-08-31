@@ -7,9 +7,11 @@ In this project I made the sales forecast for 1115 pharmacys stores in europe. W
 The final result was a Telegram bot, feed by an API, where you can access sales forecast for all stores using only the store code.
 
 ## 📒 [Ranking clients in a health insurance company ](https://github.com/natan-matos/health-insurance)
-Uma Seguradora de veículos criou um novo produto, um Seguro de Saúde, e deseja oferecer para sua base já existente de clientes. Uma pequena amostra da base foi usada para fazer a primeira oferta e coletar dados de interesse dos clientes nesta campanha de Cross-sell.
+An insurer needs to increase their income, for this was created a new product, a health insurance. 
 
-Como a base de clientes é muito grande, e a empresa possui multiplos canais de comunicação, encontrar a forma mais efetiva de contactar os clientes pode se traduzir em uma enorme enconomia nas campanhas de comunicação. Construir um modelo para prever se um cliente estaria interessado em Seguro de Saúde é extremamente útil para a empresa, pois ela pode planejar sua estratégia de comunicação para alcançar esses clientes e otimizar seu modelo de negócios e receita.
+The goal of this project is to use Learning to Rank to create an ordered list of customers by propensity to purchase using the information available to optimize marketing spend to contact the entire customer base in the cross-sell campaign
+
+The machine learning algorithm yielded 63.5% savings for the company in spending on the marketing campaign.
 
 ## 🏘 [Development of a Management Panel| Streamlit](https://github.com/natan-matos/foodzone)
 

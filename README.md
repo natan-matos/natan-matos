@@ -1,13 +1,13 @@
 
 # About Me
-Natan Matos - Data Scientist
+Natan Matos - Data Engineer
 
-My main goal is to work as a Data Scientist, developing data products, either through Analysis and Machine Learning or Statistics techniques to solve business problems for companies.
+My main goal is to work as a Data Engineer, developing data products, either through Analysis and Machine Learning or Statistics techniques to solve business problems for companies.
 
 As a Data Scientist my last job was to develop a buy propensity score to sort a list of customers and prioritize business team calls, using Learning to Rank algorithms and Python programming language. According to estimates, this solution would bring a monthly increase of 15% in the company’s revenues. The solution was developed with public data and demonstrated in a portfolio of personal projects that you can check out in the projects section below in this profile.
 
 ## Tools
-- **Data Collection and Storage**: SQL, MySQL, Postgres
+- **Data Collection and Storage**: SQL, MySQL, Postgres, Redshift
 - **Data Analysis and Processing**: Python, Jupyter Notebook, ETL
 - **Eng. Software**: Git, Github, Linux, Virtual Evn., Flask, Python API
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Streamlit
